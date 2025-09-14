@@ -30,6 +30,8 @@ void ft_print_comb2()
 	}
 }
 
+// 00 01, 00 02, 00 03, 00 98, 00 99, 01 02, 
+
 int main()
 {
 	ft_print_comb2();

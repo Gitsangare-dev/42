@@ -30,5 +30,5 @@ void ft_putnbr(int nb)
 
 int main()
 {
-	ft_putnbr(INT_MIN);
+	ft_putnbr(54);
 }
